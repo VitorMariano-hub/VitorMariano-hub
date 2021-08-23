@@ -1,3 +1,3 @@
-### Olá, eu sou o Vitor Mariano 👋
+### Oi, meu nome é Vitor Mariano 👋
 
 
