@@ -1,3 +1,12 @@
-### Oi, meu nome é Vitor Mariano 👋
+### Vitor Mariano Pereira
 
-Sou um desenvolvedor web com habilidades em linguagens e tecnologias como PHP, Laravel, MySQL, JavaScript, HTML5, CSS3.
+# Desenvolvedor web especializado em PHP/Laravel.
+
+## Minhas habilidades
+- PHP
+- Laravel
+- MySQL
+- Vue.js
+- JavaScript
+- HTML5
+- CSS3
