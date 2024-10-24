@@ -1,7 +1,7 @@
 ### Vitor Mariano Pereira
 
 # Desenvolvedor web PHP/Laravel.
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-mariano-pereira-037b56138/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-mariano-037b56138/)
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=github&logoColor=white)](https://vitormariano-hub.github.io/portfolio/)
 
