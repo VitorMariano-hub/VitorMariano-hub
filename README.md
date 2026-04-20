@@ -19,6 +19,6 @@
 - DOCKER
 - Desenvolvimento Orientado a Testes (TDD)
 - Design patterns
-- React.js
-- Next.js
 - Vues.js
+- Flutter
+- Java
